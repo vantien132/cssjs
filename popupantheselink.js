@@ -1,9 +1,8 @@
 var i=Math.floor(Math.random() * 4);
-var urls=["https://bit.ly/2r37SFT";"https://dokova.kr","https://quynhtay.com","https://dokova.vn"];
+var urls=["https://bit.ly/2r37SFT","https://dokova.kr","https://quynhtay.com","https://dokova.vn"];
 var url_popup = urls[i];
 
-      //<![CDATA[
-
+    //<![CDATA[
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
