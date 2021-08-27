@@ -3,7 +3,7 @@ var urls=["https://boracosmetics.vn";"https://dokova.kr","https://quynhtay.com",
 var url_popup = urls[i];
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
