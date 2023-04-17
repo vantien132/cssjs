@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://bit.ly/qtayyyyy';
+	var url_popup = 'http://chuyenphunu.vn';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'http://khoehonmoingay.vn';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
